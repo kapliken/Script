@@ -459,7 +459,7 @@ Upgrades:CreateDropdown({
     CurrentOption = {"G1"},
     MultipleOptions = false,
     Callback = function(Options)
-        selectedGacha = Options[1]
+        SelectedGacha = Options[1]
         print("[Gacha] Selected:", SelectedGacha)    
     end,
 })

@@ -8,7 +8,7 @@ _G.ScriptHubLoaded = true
 local GITHUB_URL = "https://raw.githubusercontent.com/kapliken/Script/main/games/"
 local PlaceIds = {
     -- Anime Fighting Simulator: Endless
-    [8260276694] = "afs-endless.lua",
+    [130247632398296] = "afs-endless.lua",
 }
 
 -- Get current game

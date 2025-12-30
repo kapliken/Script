@@ -66,7 +66,7 @@ local TrainingAreas = {
     {Stat = "2", Requires = 1000000000, Position = Vector3.new(2465.3, 1439.5, -370.85), Name = "Planet", Multiply = 5000},
     {Stat = "2", Requires = 100000000000, Position = Vector3.new(-2753.8, -230.19, 352.6), Name = "Time Chamber", Multiply = 10000},
     {Stat = "2", Requires = 5000000000000, Position = Vector3.new(2176, 516, 598), Name = "Hollow", Multiply = 25000},
-    {Stat = "2", Requires = 250000000000000, Position = Vector3.new(1664.75, 500.417, -1328.5), Name = "Founder", Multiply = 100000},
+    {Stat = "2", Requires = 250000000000000, Position = Vector3.new(1670, 424, -1303), Name = "Founder", Multiply = 100000},
     {Stat = "2", Requires = 150000000000000000, Position = Vector3.new(190.854, 785.492, -702.3), Name = "Rock Planet", Multiply = 150000},
     {Stat = "2", Requires = 25000000000000000000, Position = Vector3.new(2561, 183.5, 1558), Name = "Marine Island", Multiply = 300000},
     {Stat = "2", Requires = 1e22, Position = Vector3.new(1687.05, 2479.83, -34.979), Name = "Island of Power", Multiply = 1000000},

@@ -1,9 +1,3 @@
-if _G.ScriptHubLoaded then
-    warn("Script already loaded!")
-    return
-end
-_G.ScriptHubLoaded = true
-
 -- Configuration
 local GITHUB_URL = "https://raw.githubusercontent.com/kapliken/Script/main/games/"
 local PlaceIds = {

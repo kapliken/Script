@@ -51,7 +51,7 @@ local TrainingAreas = {
     {Stat = "1", Requires = 1000000000, Position = Vector3.new(718.8, 144.2, 929.8), Name = "Excalibur", Multiply = 5000},
     {Stat = "1", Requires = 100000000000, Position = Vector3.new(1855.19, 146.1, 92.2), Name = "Leveling", Multiply = 10000},
     {Stat = "1", Requires = 5000000000000, Position = Vector3.new(631, 663, 432), Name = "Floating Island", Multiply = 25000},
-    {Stat = "1", Requires = 250000000000000, Position = Vector3.new(4280.27, 105.935, -599.69), Name = "Skull", Multiply = 100000},
+    {Stat = "1", Requires = 250000000000000, Position = Vector3.new(4235, 60, -599), Name = "Skull", Multiply = 100000},
     {Stat = "1", Requires = 150000000000000000, Position = Vector3.new(796.781, 216.74, -1003.9), Name = "Boulder", Multiply = 150000},
     {Stat = "1", Requires = 25000000000000000000, Position = Vector3.new(3873.46, 118.198, 880.244), Name = "Piggy", Multiply = 300000},
     {Stat = "1", Requires = 1e22, Position = Vector3.new(3860.03, 724.489, -1184.4), Name = "Heavenly Pillar", Multiply = 1000000},
